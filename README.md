@@ -1,6 +1,14 @@
 # Microsoft Azure BI Training
 
- During this course, the first and the last lab of the course are group exercises that involve discussion to help provide context for the labs that the students will take. The last lab provides the opportunity for the students to reflect on what they have achieved and what they have overcome to achieve the delivery of requirements from the case study in the labs. The rest of the labs are hands on implementing Azure data platform capabilities to meet AdventureWorks business requirements.
+**Labs demo and Sessions recording will be provided separately.**
+
+
+## How to make use of this lab?
+
+- Download the zip folder to get all the files on your local computer.
+- Click on the lab title, that should open the respective lab instructions. Read the instructions to complete the labs.
+
+During this course, the first and the last lab of the course are group exercises that involve discussion to help provide context for the labs that the students will take. The last lab provides the opportunity for the students to reflect on what they have achieved and what they have overcome to achieve the delivery of requirements from the case study in the labs. The rest of the labs are hands on implementing Azure data platform capabilities to meet AdventureWorks business requirements.
 
 The following is a summary of the lab objectives for each module:
 
