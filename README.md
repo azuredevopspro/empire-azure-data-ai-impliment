@@ -12,7 +12,7 @@ During this course, the first and the last lab of the course are group exercises
 
 The following is a summary of the lab objectives for each module:
 
-## [Lab 1 - Azure for the Data Engineer](https://github.com/azuredevopspro/empire-azure-data-ai-impliment/blob/main/instructions/dp-200-01_instructions.md)
+## [Lab 1 (Discusssion) - Azure for the Data Engineer](https://github.com/azuredevopspro/empire-azure-data-ai-impliment/blob/main/instructions/dp-200-01_instructions.md)
 
 The students will take the information gained in the lessons and from the case study to scope out the deliverables for a digital transformation project within AdventureWorks. They will first identify how the evolving use of data has presented new opportunities for the organization. The students will also explore which Azure Data Platform services can be used to address the business needs and define the tasks that will be performed by the data engineer. Finally, students will finalize the data engineering deliverables for AdventureWorks.
 
@@ -44,6 +44,6 @@ In this module, students will learn how Azure Data factory can be used to orches
 
 The students will be able to describe and document the different approaches to security that can be taken to provide defence in depth. This will involve the student documenting the security that has been set up so far in the course. It will also enable the students to identify any gaps in security that may exists for AdventureWorks.
 
-## [Lab 9 - Monitoring and Troubleshooting Data Storage and Processing](https://github.com/azuredevopspro/empire-azure-data-ai-impliment/blob/main/instructions/dp-200-09_instructions.md)
+## [Lab 9 (Discusssion)- Monitoring and Troubleshooting Data Storage and Processing](https://github.com/azuredevopspro/empire-azure-data-ai-impliment/blob/main/instructions/dp-200-09_instructions.md)
 
 The students will be able to define a broad monitoring solution that can help them monitor issues that can occur in their data estate. The student will then experience common data storage issues and data processing issue that can occur in cloud data solution. Finally they will implement a disaster recovery approach for a Data Platform technology.
